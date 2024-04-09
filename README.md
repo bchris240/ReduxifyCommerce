@@ -21,7 +21,7 @@ To run this application locally, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/bchris240/redux-e-commerce.git
+git clone https://github.com/bchris240/ReduxifyCommerce
 Navigate to the project directory:
 
 bash
